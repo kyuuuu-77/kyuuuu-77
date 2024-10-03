@@ -32,6 +32,6 @@
 ## 📊 GitHub 統計
 ### ❗ プライベートリポジトリ―は統計に反映されていません ❗
 
-![Kyuuuu GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&theme=ambient_gradient&show_icons=true&include_all_commits=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&hide=stars,contribs&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&theme=ambient_gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&theme=ambient_gradient&count_private=true&show_icons=true)

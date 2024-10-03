@@ -32,6 +32,6 @@
 ## 📊 깃헙 통계
 ### ❗ 프라이빗 리포지토리는 통계에 반영되지 않습니다 ❗
 
-![Kyuuuu GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&theme=ambient_gradient&show_icons=true&include_all_commits=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&hide=stars,contribs&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&theme=ambient_gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&theme=ambient_gradient&count_private=true&show_icons=true)
