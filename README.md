@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-## 📊 GitHub Status
+## 📊 GitHub Statistics
 ### ❗ private repository are not reflected in Stats ❗
 
 ![Kyuuuu GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&theme=ambient_gradient&show_icons=true&include_all_commits=true&rank_icon=github)
