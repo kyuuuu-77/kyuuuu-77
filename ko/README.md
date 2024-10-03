@@ -25,6 +25,10 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
+![XML](https://img.shields.io/badge/XML-%23005FAD.svg?style=for-the-badge&logo=htmx&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ## 📊 깃헙 통계
 ### ❗ 프라이빗 리포지토리는 통계에 반영되지 않습니다 ❗
 
