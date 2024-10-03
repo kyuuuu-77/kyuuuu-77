@@ -37,4 +37,4 @@ Language :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&hide=stars,contribs&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&theme=ambient_gradient&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&count_private=true&show_icons=true)
