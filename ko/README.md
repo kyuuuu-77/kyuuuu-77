@@ -1,10 +1,8 @@
 # Kyuuuu's GitHub Readme 👋
 
-[日本語](./ja/README.md) | [한국어](./ko/README.md)
+## 🛠️ 스택
 
-## 🛠️ Stacks
-
-### 💻 IDEs
+### 💻 개발 환경
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-%23007eff.svg?style=for-the-badge&logo=jetbrains&logoColor=%white)
 ![CLion](https://img.shields.io/badge/CLion-%2300d980.svg?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%2300c4f4.svg?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -15,19 +13,19 @@
 
 ----------
 
-### 💾 VCS
+### 💾 버전 관리
 ![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ----------
 
-### 📋 Languages
+### 📋 프로그래밍 언어
 ![C](https://img.shields.io/badge/C_Language-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-%235259E3.svg?style=for-the-badge&logo=languagetool&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-## 📊 GitHub Status
+## 📊 깃헙 통계
 ### ❗ private repository are not reflected in Stats ❗
 
 ![Kyuuuu GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&theme=ambient_gradient&show_icons=true&include_all_commits=true&rank_icon=github)
