@@ -39,4 +39,6 @@ Language :
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&count_private=true&show_icons=true)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrbqls1123)](https://solved.ac/tjrbqls1123/)
+
 [//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&count_private=true&show_icons=true&#41;)

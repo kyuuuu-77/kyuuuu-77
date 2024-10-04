@@ -35,3 +35,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&hide=contribs&count_private=true&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&count_private=true&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrbqls1123)](https://solved.ac/tjrbqls1123/)
+
