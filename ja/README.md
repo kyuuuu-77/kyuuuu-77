@@ -1,4 +1,4 @@
-# Kyuuuu's GitHub Readme 👋
+# Kyuuuu's GitHub Readme 🍰
 
 ## 🛠️ スタック
 
