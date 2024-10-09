@@ -1,26 +1,27 @@
 # Kyuuuu's GitHub Readme 🍰
 
+----------
+
 Language :
 [한국어](./ko/README.md) | [日本語](./ja/README.md)
 
 ## 🛠️ Stacks
 
-### 💻 IDEs
+### 💻 IDE & Hardware
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-%23007eff.svg?style=for-the-badge&logo=jetbrains&logoColor=%white)
 ![CLion](https://img.shields.io/badge/CLion-%2300d980.svg?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%2300c4f4.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%23007dfe.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2334A853.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Stduio-%23cb95f8.svg?style=for-the-badge&logo=&logoColor=white)
 
-----------
+![Arduino](https://img.shields.io/badge/Arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### 💾 VCS
 ![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-----------
 
 ### 📋 Languages
 ![C](https://img.shields.io/badge/C_Language-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,13 +33,13 @@ Language :
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+----------
+
 ## 📊 GitHub Statistics
 ### ❗ private repository are not reflected in Stats ❗
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&hide=contribs&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuuuu-77&hide=contribs,issues&count_private=true&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&count_private=true&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrbqls1123)](https://solved.ac/tjrbqls1123/)
-
-[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&layout=compact&count_private=true&show_icons=true&#41;)
