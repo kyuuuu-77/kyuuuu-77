@@ -1,6 +1,6 @@
 # Kyuuuu's GitHub Readme 🍰
 
-----------
+------
 
 ## 🛠️ 스택
 
@@ -11,6 +11,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-%23007dfe.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2334A853.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Stduio-%23cb95f8.svg?style=for-the-badge&logo=&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-%23e00033.svg?style=for-the-badge&logo=&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
@@ -40,3 +41,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuu-77&count_private=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrbqls1123)](https://solved.ac/tjrbqls1123/)
+
+------
+
+📌 *updated 2024.10.27*
